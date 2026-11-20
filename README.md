@@ -68,4 +68,3 @@ http://localhost:3000
 Proyek ini dibuat untuk tujuan edukasi, inovasi teknologi, dan pelestarian lingkungan.  
 ---  
 
-Dibuat oleh Tim Hello World
